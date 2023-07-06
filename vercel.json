@@ -5,9 +5,6 @@
         "use": "@vercel/node"
     }],
     "routes": [
-        { "src": "/(.*)", "dest": "/index.js" }
-    ],
-    "env": {
-        "DB_PATH": "https://example.com/db.json"
-    }
+        { "src": "*", "dest": "index.js" }
+    ]
 }
