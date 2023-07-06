@@ -1,0 +1,281 @@
+{
+    "category": [{
+        "id": 1,
+        "name": "Điều hòa",
+        "photo": "Rectangle 29 (3).png"
+    }, {
+        "id": 2,
+        "name": "Tủ lạnh",
+        "photo": "Rectangle 29 (2).png"
+    }, {
+        "id": 3,
+        "name": "Quạt, máy làm mát",
+        "photo": "Rectangle 29.png"
+    }, {
+        "id": 4,
+        "name": "Tivi",
+        "photo": "Rectangle 29 (1).png"
+    }, {
+        "id": 5,
+        "name": "Máy xay đa năng",
+        "photo": "Rectangle 29 (4).png"
+    }, {
+        "id": 6,
+        "name": "Các loại nồi",
+        "photo": "Rectangle 29 (5).png"
+    }, {
+        "id": 7,
+        "name": "Máy giặc",
+        "photo": "Rectangle 29 (6).png"
+    }, {
+        "id": 8,
+        "name": "Máy lọc không khí",
+        "photo": "Rectangle 29 (7).png"
+    }, {
+        "id": 9,
+        "name": "Cây nước nóng lạnh",
+        "photo": "Rectangle 29 (8).png"
+    }, {
+        "id": 10,
+        "name": "Máy hút bụi",
+        "photo": "Rectangle 29 (9).png"
+    }, {
+        "id": 11,
+        "name": "Máy khoan",
+        "photo": "Rectangle 29 (10).png"
+    }, {
+        "id": 12,
+        "name": "Tủ quần áo thông minh",
+        "photo": "Rectangle 29 (11).png"
+    }, {
+        "id": 13,
+        "name": "Máy pha cafe",
+        "photo": "Rectangle 29 (12).png"
+    }, {
+        "id": 14,
+        "name": "Máy hút ẩm",
+        "photo": "Rectangle 29 (13).png"
+    }, {
+        "id": 15,
+        "name": "Máy bơm nước",
+        "photo": "Rectangle 29 (14).png"
+    }, {
+        "id": 16,
+        "name": "Bình nóng lạnh",
+        "photo": "Rectangle 29 (15).png"
+    }, {
+        "id": 17,
+        "name": "Máy massage",
+        "photo": "Rectangle 29 (16).png"
+    }, {
+        "id": 18,
+        "name": "Máy nén khí",
+        "photo": "Rectangle 29 (17).png"
+    }, {
+        "id": 19,
+        "name": "Máy sấy quần áo",
+        "photo": "Rectangle 29 (18).png"
+    }, {
+        "id": 20,
+        "name": "Máy vệ sinh công nghiệp",
+        "photo": "Rectangle 29 (19).png"
+    }],
+    "suggest": [{
+        "id": 1,
+        "name": "Lò nướng Sunhouse SHD4206 10 lít",
+        "photo": "Rectangle 50.png"
+    }, {
+        "id": 2,
+        "name": "Máy cưa bàn Maxpro MPBTS1800/254",
+        "photo": "Rectangle 50 (1).png"
+    }, {
+        "id": 3,
+        "name": "Smart tivi HD Coocaa 32 inch 32S3U",
+        "photo": "Rectangle 50 (2).png"
+    }, {
+        "id": 4,
+        "name": "Điện thoại bàn không dây Panasonic KX-TGB110",
+        "photo": "Rectangle 50 (3).png"
+    }, {
+        "id": 5,
+        "name": "Máy bơm mỡ khí nén Kocu GZ-8 12 lít",
+        "photo": "Rectangle 50 (4).png"
+    }, {
+        "id": 6,
+        "name": "Nồi áp suất công nghiệp Tianxi C32 (20 lít)",
+        "photo": "Rectangle 50 (5).png"
+    }, {
+        "id": 7,
+        "name": "Ấm siêu tốc 2 lớp inox 304 Nagakawa NAG0321",
+        "photo": "Rectangle 50 (6).png"
+    }, {
+        "id": 8,
+        "name": "Bình xịt phun thuốc chạy điện Tatsu TS818 - 18 lít",
+        "photo": "Rectangle 50 (7).png"
+    }, {
+        "id": 9,
+        "name": "Máy pha cà phê Espresso Tiross TS621",
+        "photo": "Rectangle 50 (8).png"
+    }, {
+        "id": 10,
+        "name": "Quạt đảo trần Asia X16002 (có đk từ xa)",
+        "photo": "Rectangle 50 (9).png"
+    }, {
+        "id": 11,
+        "name": "Tủ lạnh Samsung Inverter 208 lít RT20HAR8DBU/SV",
+        "photo": "Rectangle 50 (10).png"
+    }, {
+        "id": 12,
+        "name": "Tủ lạnh Toshiba inverter GR-B31VU-SK (253 lít)",
+        "photo": "Rectangle 50 (11).png"
+    }],
+    "sale": [{
+        "id": 1,
+        "name": "Tủ lạnh Casper Inverter 258 lít RT-270VD",
+        "photo": "Rectangle 50 (12).png"
+    }, {
+        "id": 2,
+        "name": "Chảo Inox 3 lớp Ultra Titanium Sunhouse ",
+        "photo": "Rectangle 50 (13).png"
+    }, {
+        "id": 3,
+        "name": "Quạt điều hòa điện tử Kangaroo KG50F79N",
+        "photo": "Rectangle 50 (14).png"
+    }, {
+        "id": 4,
+        "name": "Tủ lạnh  LG Inverter GR-B257JDS 649 lít",
+        "photo": "Rectangle 50 (15).png"
+    }, {
+        "id": 5,
+        "name": "Tủ lạnh Casper Inverter 258 lít RT-270VD",
+        "photo": "Rectangle 50 (16).png"
+    }, {
+        "id": 6,
+        "name": "Quạt điều hòa điện tử Kangaroo KG50F79N",
+        "photo": "Rectangle 50 (17).png"
+    }],
+    "cold": [{
+        "id": 1,
+        "name": "Điều hòa",
+        "photo": "Rectangle 82.png"
+    }, {
+        "id": 2,
+        "name": "Tủ lạnh",
+        "photo": "Rectangle 82 (1).png"
+    }, {
+        "id": 3,
+        "name": "Máy giặc",
+        "photo": "Rectangle 82 (2).png"
+    }, {
+        "id": 4,
+        "name": "Tủ dông",
+        "photo": "Rectangle 82 (3).png"
+    }, {
+        "id": 5,
+        "name": "Máy hút ẩm",
+        "photo": "Rectangle 82 (4).png"
+    }, {
+        "id": 6,
+        "name": "Máy phát điện",
+        "photo": "Rectangle 82 (5).png"
+    }, {
+        "id": 7,
+        "name": "Tivi",
+        "photo": "Rectangle 82 (6).png"
+    }, {
+        "id": 8,
+        "name": "Máy lọc không khí",
+        "photo": "Rectangle 82 (7).png"
+    }, {
+        "id": 9,
+        "name": "Tủ mát",
+        "photo": "Rectangle 82 (8).png"
+    }, {
+        "id": 10,
+        "name": "Máy làm đá viên",
+        "photo": "Rectangle 82 (9).png"
+    }],
+    "coldprd": [{
+        "id": 1,
+        "name": "Điều hòa 1 chiều Funiki 9000 BTU HSC-09TMU (Gas R32)",
+        "photo": "Rectangle 50 (18).png"
+    }, {
+        "id": 2,
+        "name": "Máy giặt lồng ngang Samsung inverter 8kg WW80T3020WW",
+        "photo": "Rectangle 50 (19).png"
+    }, {
+        "id": 3,
+        "name": "Máy phát điện chạy xăng 1,7KVA Honda EB2200",
+        "photo": "Rectangle 50 (20).png"
+    }, {
+        "id": 4,
+        "name": "Smart Tivi Neo QLED Samsung 4K 55 inch QA55QN90CAKXXV",
+        "photo": "Rectangle 50 (21).png"
+    }, {
+        "id": 5,
+        "name": "Máy giặt lồng ngang Samsung inverter 8kg WW80T3020WW",
+        "photo": "Rectangle 50 (22).png"
+    }],
+    "tool": [{
+        "id": 1,
+        "name": "Máy khoan",
+        "photo": "Rectangle 82 (10).png"
+    }, {
+        "id": 2,
+        "name": "Máy cắt các loại",
+        "photo": "Rectangle 82 (11).png"
+    }, {
+        "id": 3,
+        "name": "Máy rửa xe",
+        "photo": "Rectangle 82 (12).png"
+    }, {
+        "id": 4,
+        "name": "Thang nhôm",
+        "photo": "Rectangle 82 (13).png"
+    }, {
+        "id": 5,
+        "name": "Xe đẩy hàng",
+        "photo": "Rectangle 82 (14).png"
+    }, {
+        "id": 6,
+        "name": "Máy bơm nước",
+        "photo": "Rectangle 82 (15).png"
+    }, {
+        "id": 7,
+        "name": "Máy hàn điện tử",
+        "photo": "Rectangle 82 (16).png"
+    }, {
+        "id": 8,
+        "name": "Máy cưa, cắt gỗ",
+        "photo": "Rectangle 82 (17).png"
+    }, {
+        "id": 9,
+        "name": "Máy nông nghiệp",
+        "photo": "Rectangle 82 (18).png"
+    }, {
+        "id": 10,
+        "name": "Thiết bị nâng hạ",
+        "photo": "Rectangle 82 (19).png"
+    }],
+    "toolprd": [{
+        "id": 1,
+        "name": "Kích thủy lực Unipower 4 tấn",
+        "photo": "Rectangle 50 (23).png"
+    }, {
+        "id": 2,
+        "name": "Máy hàn điện tử Sasuke ZX7 200N",
+        "photo": "Rectangle 50 (24).png"
+    }, {
+        "id": 3,
+        "name": "Máy khoan động lực Bosch GSB 13 RE (gồm bộ set 100 món)",
+        "photo": "Rectangle 50 (25).png"
+    }, {
+        "id": 4,
+        "name": "Máy bơm nước tăng áp Panasonic A130JAK (125W)",
+        "photo": "Rectangle 50 (26).png"
+    }, {
+        "id": 5,
+        "name": "Thang nhôm rút Sumika SK 320",
+        "photo": "Rectangle 50 (27).png"
+    }]
+}
