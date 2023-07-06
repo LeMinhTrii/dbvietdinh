@@ -6,7 +6,7 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(
   jsonServer.rewriter({
-    "/*": "$1",
+    "/*": "db.json",
   })
 );
 server.use(router);
