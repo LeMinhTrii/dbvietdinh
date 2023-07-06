@@ -7,6 +7,6 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 
 // Use default router
-server.use("/", router);
+server.use(router);
 
 module.exports = server;
