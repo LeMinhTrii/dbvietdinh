@@ -9,6 +9,6 @@ server.use(
     "/*": "db.json",
   })
 );
-server.use(router);
+server.use("/api", "db.json");
 
 module.exports = server;
