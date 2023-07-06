@@ -4,11 +4,11 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
-server.use(
-  jsonServer.rewriter({
-    "/*": "db.json",
-  })
-);
-server.use("/api", "db.json");
+// server.use(
+//   jsonServer.rewriter({
+//     "/*": "db.json",
+//   })
+// );
+server.use("/api", router);
 
 module.exports = server;
